@@ -21,6 +21,7 @@ const getLootTemplates = () => {
       SELECT LootId FROM creature_template
       WHERE ScriptName LIKE "%boss_%"
     )
+    AND mincountOrRef<0
   `;
 
   return classicmangos.query(sql)
