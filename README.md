@@ -1,5 +1,5 @@
 # Vanilla Boss Loot
-This program increases the amount of loot that Vanilla bosses drop, for use with [Celguar's SPP Classics Repack](https://github.com/celguar/spp-classics-cmangos)/[CMaNGOS Classic](https://github.com/cmangos/mangos-classic).
+This program increases the amount of loot that Vanilla raid bosses drop, for use with [Celguar's SPP Classics Repack](https://github.com/celguar/spp-classics-cmangos)/[CMaNGOS Classic](https://github.com/cmangos/mangos-classic).
 
 The default amount is triple the loot, but can be adjusted in the ``index.js`` file.
 
