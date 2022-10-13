@@ -12,6 +12,7 @@ npm install
 ```
 
 ## Usage
+Always make a database backup before running!
 ```
 npm start
 ```
