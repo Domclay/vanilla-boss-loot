@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Domclay/vanilla-boss-loot.git"
+    "url": "git+https://github.com/DominicMonares/vanilla-boss-loot.git"
   },
-  "author": "Domclay",
+  "author": "Dominic Monares",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Domclay/vanilla-boss-loot/issues"
+    "url": "https://github.com/DominicMonares/vanilla-boss-loot/issues"
   },
-  "homepage": "https://github.com/Domclay/vanilla-boss-loot#readme",
+  "homepage": "https://github.com/DominicMonares/vanilla-boss-loot#readme",
   "dependencies": {
     "mysql2": "^2.3.3"
   }
